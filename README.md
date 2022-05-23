@@ -6,19 +6,19 @@ National Autonomous University of Mexico (https://www.unam.mx/).
 
 aaronnicruz@gmail.com
 
-## Introducción
-Se pretende realizar un fractal similar al del triangulo visto en clase pero con un cuadrado con L=1 y cada iteracion L = L/3
+## Introduction
+It is intended to make a fractal similar to the triangle seen in class but with a square with L=1 and each iteration L = L/3.
 
-## Metodología 
-Razonamiento a seguir para resolver el problema
+## Methodology 
+Reasoning to be followed to solve the problem
 
-## Requerimientos
-
-
-## Ejecución
+## Requirements
 
 
-## Resultado 
+## Execution
 
 
-## Referencias
+## Result 
+
+
+## References
