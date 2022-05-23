@@ -1,12 +1,9 @@
 # Exam2_Dynamic-Systems
 
-## Autor
-- Luis Aaron Nieto Cruz ([LuisAaronNietoCruz](https://github.com/LuisAaronNietoCruz))
+Luis Aaron Nieto Cruz ([LuisAaronNietoCruz](https://github.com/LuisAaronNietoCruz))
  
-## Adscripción 
 National Autonomous University of Mexico (https://www.unam.mx/).
 
-## Contacto 
 aaronnicruz@gmail.com
 
 ## Introducción
