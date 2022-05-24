@@ -19,7 +19,7 @@ First try to make a function (square) to define a square, then draw squares on e
 
 
 ## Result 
-
+![Alt text](https://github.com/LuisAaronNietoCruz/Exam2_Dynamic-Systems/blob/main/Fractal-Square.png 'Fractal-Square')
 
 ## References
 Fractal of the triangle seen in class
