@@ -13,10 +13,7 @@ It is intended to make a fractal similar to the triangle seen in class but with 
 First try to make a function (square) to define a square, then draw squares on each of its sides and at the end use another function (fractal) for recursion. 
 
 ## Requirements
-
-
-## Execution
-
+For the realization of this program it was necessary to import the libraries (numpy, math, matplotlib).
 
 ## Result 
 ![Alt text](https://github.com/LuisAaronNietoCruz/Exam2_Dynamic-Systems/blob/main/Fractal-Square.png 'Fractal-Square')
